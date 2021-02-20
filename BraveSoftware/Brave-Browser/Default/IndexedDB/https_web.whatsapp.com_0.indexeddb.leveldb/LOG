@@ -1,3 +1,53 @@
 2021/02/21-03:12:01.500 2835f Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-007536
 2021/02/21-03:12:01.524 2835f Recovering log #9612
 2021/02/21-03:12:01.524 2835f Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/009612.log 
+2021/02/21-03:57:33.329 29936 Level-0 table #9634: started
+2021/02/21-03:57:33.585 29936 Level-0 table #9634: 1313270 bytes OK
+2021/02/21-03:57:33.694 29936 Delete type=0 #9612
+2021/02/21-04:01:07.334 29c3e Compacting 1@0 + 0@1 files
+2021/02/21-04:01:07.580 29c3e Generated table #9635@0: 22160 keys, 449443 bytes
+2021/02/21-04:01:07.736 29c3e Generated table #9636@0: 3138 keys, 117767 bytes
+2021/02/21-04:01:07.736 29c3e Compacted 1@0 + 0@1 files => 567210 bytes
+2021/02/21-04:01:07.850 29c3e compacted to: files[ 0 2 16 0 0 0 0 ]
+2021/02/21-04:01:07.851 29c3e Delete type=2 #9634
+2021/02/21-04:01:12.138 29d28 Compacting 1@1 + 10@2 files
+2021/02/21-04:01:13.345 29d28 Generated table #9637@1: 36069 keys, 2173015 bytes
+2021/02/21-04:01:13.800 29d28 Generated table #9638@1: 36103 keys, 2172356 bytes
+2021/02/21-04:01:14.027 29d28 Generated table #9639@1: 36173 keys, 2173414 bytes
+2021/02/21-04:01:14.369 29d28 Generated table #9640@1: 37677 keys, 2174176 bytes
+2021/02/21-04:01:14.980 29d28 Generated table #9641@1: 152437 keys, 2311311 bytes
+2021/02/21-04:01:15.671 29d28 Generated table #9642@1: 32602 keys, 2243630 bytes
+2021/02/21-04:01:16.440 29d28 Generated table #9643@1: 30347 keys, 2232197 bytes
+2021/02/21-04:01:17.396 29d28 Generated table #9644@1: 31282 keys, 2239001 bytes
+2021/02/21-04:01:18.286 29d28 Generated table #9645@1: 30685 keys, 2222403 bytes
+2021/02/21-04:01:18.948 29d28 Generated table #9646@1: 30591 keys, 2226744 bytes
+2021/02/21-04:01:19.088 29d28 Generated table #9647@1: 1866 keys, 132483 bytes
+2021/02/21-04:01:19.089 29d28 Compacted 1@1 + 10@2 files => 22300730 bytes
+2021/02/21-04:01:19.164 29d28 compacted to: files[ 0 1 17 0 0 0 0 ]
+2021/02/21-04:01:19.165 29d28 Delete type=2 #9621
+2021/02/21-04:01:19.165 29d28 Delete type=2 #9623
+2021/02/21-04:01:19.165 29d28 Delete type=2 #9624
+2021/02/21-04:01:19.165 29d28 Delete type=2 #9622
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9617
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9616
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9619
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9620
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9618
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9625
+2021/02/21-04:01:19.166 29d28 Delete type=2 #9635
+2021/02/21-04:02:04.642 29d56 Compacting 1@1 + 6@2 files
+2021/02/21-04:02:05.516 29d56 Generated table #9648@1: 29850 keys, 2230297 bytes
+2021/02/21-04:02:06.230 29d56 Generated table #9649@1: 30332 keys, 2226867 bytes
+2021/02/21-04:02:06.553 29d56 Generated table #9650@1: 84128 keys, 2243430 bytes
+2021/02/21-04:02:07.076 29d56 Generated table #9651@1: 88695 keys, 2279940 bytes
+2021/02/21-04:02:07.493 29d56 Generated table #9652@1: 3728 keys, 2733821 bytes
+2021/02/21-04:02:09.235 29d56 Generated table #9653@1: 540 keys, 454680 bytes
+2021/02/21-04:02:09.235 29d56 Compacted 1@1 + 6@2 files => 12169035 bytes
+2021/02/21-04:02:11.548 29d56 compacted to: files[ 0 0 17 0 0 0 0 ]
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9631
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9636
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9628
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9626
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9630
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9629
+2021/02/21-04:02:11.549 29d56 Delete type=2 #9627
