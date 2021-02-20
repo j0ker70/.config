@@ -1,5 +1,0 @@
-2020/11/14-04:11:28.846 1b225 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_biznamewiz.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/14-04:55:09.865 1c092 Level-0 table #5: started
-2020/11/14-04:55:09.990 1c092 Level-0 table #5: 144594 bytes OK
-2020/11/14-04:55:10.096 1c092 Delete type=0 #3
-2020/11/14-04:55:10.096 1c092 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

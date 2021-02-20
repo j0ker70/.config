@@ -1,5 +1,0 @@
-2020/11/17-16:26:29.569 273bf Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/17-16:27:06.898 27034 Level-0 table #5: started
-2020/11/17-16:27:06.964 27034 Level-0 table #5: 12108 bytes OK
-2020/11/17-16:27:07.004 27034 Delete type=0 #3
-2020/11/17-16:27:07.005 27034 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

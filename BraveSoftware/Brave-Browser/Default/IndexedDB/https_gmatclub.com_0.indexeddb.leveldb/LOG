@@ -1,5 +1,0 @@
-2021/02/10-18:33:15.958 c6210 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_gmatclub.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/10-18:33:22.667 c6210 Level-0 table #5: started
-2021/02/10-18:33:22.727 c6210 Level-0 table #5: 1248 bytes OK
-2021/02/10-18:33:22.796 c6210 Delete type=0 #3
-2021/02/10-18:33:22.797 c6210 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

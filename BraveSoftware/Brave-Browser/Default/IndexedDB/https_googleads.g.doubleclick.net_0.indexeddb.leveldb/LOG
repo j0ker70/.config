@@ -1,8 +1,0 @@
-2020/12/30-01:40:00.959 16929 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/30-01:40:00.960 16929 Recovering log #19
-2020/12/30-01:40:00.960 16929 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000019.log 
-2020/12/30-01:40:03.386 16929 Level-0 table #23: started
-2020/12/30-01:40:03.387 16929 Level-0 table #23: 0 bytes OK
-2020/12/30-01:40:03.498 16929 Delete type=0 #19
-2020/12/30-01:40:03.499 16929 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/30-01:40:03.499 16929 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

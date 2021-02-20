@@ -1,5 +1,0 @@
-2020/11/19-03:58:27.165 2ecc Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.checkmarx.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/19-03:59:44.710 3008 Level-0 table #5: started
-2020/11/19-03:59:44.764 3008 Level-0 table #5: 1864 bytes OK
-2020/11/19-03:59:44.809 3008 Delete type=0 #3
-2020/11/19-03:59:44.810 3008 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

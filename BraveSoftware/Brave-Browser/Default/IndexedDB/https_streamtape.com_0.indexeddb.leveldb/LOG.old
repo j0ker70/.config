@@ -1,5 +1,0 @@
-2021/01/18-02:54:47.570 3807b Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_streamtape.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/18-02:55:38.778 38335 Level-0 table #5: started
-2021/01/18-02:55:38.833 38335 Level-0 table #5: 807 bytes OK
-2021/01/18-02:55:38.883 38335 Delete type=0 #3
-2021/01/18-02:55:38.883 38335 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

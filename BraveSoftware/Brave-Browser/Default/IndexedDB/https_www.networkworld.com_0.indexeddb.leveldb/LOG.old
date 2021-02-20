@@ -1,5 +1,0 @@
-2021/01/15-19:49:27.649 1ca78 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.networkworld.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/15-19:49:59.625 1ca78 Level-0 table #5: started
-2021/01/15-19:49:59.669 1ca78 Level-0 table #5: 826 bytes OK
-2021/01/15-19:49:59.710 1ca78 Delete type=0 #3
-2021/01/15-19:49:59.710 1ca78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

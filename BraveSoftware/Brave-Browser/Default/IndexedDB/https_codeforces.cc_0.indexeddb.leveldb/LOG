@@ -1,5 +1,0 @@
-2020/12/11-23:49:27.456 2c4b4 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeforces.cc_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/11-23:49:33.216 2c148 Level-0 table #5: started
-2020/12/11-23:49:33.271 2c148 Level-0 table #5: 1108 bytes OK
-2020/12/11-23:49:33.350 2c148 Delete type=0 #3
-2020/12/11-23:49:33.350 2c148 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

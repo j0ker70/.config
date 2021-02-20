@@ -1,5 +1,0 @@
-2021/02/15-00:02:58.575 eeaf6 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_cssbattleapp.firebaseapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/15-00:03:02.299 eeaf6 Level-0 table #5: started
-2021/02/15-00:03:02.352 eeaf6 Level-0 table #5: 1125 bytes OK
-2021/02/15-00:03:02.433 eeaf6 Delete type=0 #3
-2021/02/15-00:03:02.433 eeaf6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

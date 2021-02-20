@@ -1,5 +1,0 @@
-2021/01/19-21:09:11.945 4b2a9 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_emailanalytics.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/19-21:09:43.941 4b2a9 Level-0 table #5: started
-2021/01/19-21:09:44.026 4b2a9 Level-0 table #5: 831 bytes OK
-2021/01/19-21:09:44.074 4b2a9 Delete type=0 #3
-2021/01/19-21:09:44.074 4b2a9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

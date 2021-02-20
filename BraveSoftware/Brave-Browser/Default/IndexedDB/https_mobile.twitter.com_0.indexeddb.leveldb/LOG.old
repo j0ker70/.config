@@ -1,5 +1,0 @@
-2020/11/10-23:24:52.611 2d860 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/10-23:25:11.059 2d60d Level-0 table #5: started
-2020/11/10-23:25:11.122 2d60d Level-0 table #5: 1152 bytes OK
-2020/11/10-23:25:11.200 2d60d Delete type=0 #3
-2020/11/10-23:25:11.200 2d60d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

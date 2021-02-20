@@ -1,8 +1,0 @@
-2021/01/22-02:18:26.826 106dd Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nitrotype.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/22-02:18:26.826 106dd Recovering log #11
-2021/01/22-02:18:26.826 106dd Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nitrotype.com_0.indexeddb.leveldb/000011.log 
-2021/01/22-02:19:56.869 10792 Level-0 table #16: started
-2021/01/22-02:19:56.869 10792 Level-0 table #16: 0 bytes OK
-2021/01/22-02:19:56.918 10792 Delete type=0 #11
-2021/01/22-02:19:56.919 10792 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/01/22-02:19:56.919 10792 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

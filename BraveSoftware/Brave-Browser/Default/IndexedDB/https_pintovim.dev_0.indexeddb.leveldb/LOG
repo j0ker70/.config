@@ -1,5 +1,0 @@
-2020/11/21-16:25:23.280 1247 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pintovim.dev_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/21-16:30:02.210 d1f Level-0 table #5: started
-2020/11/21-16:30:02.252 d1f Level-0 table #5: 790 bytes OK
-2020/11/21-16:30:02.287 d1f Delete type=0 #3
-2020/11/21-16:30:02.288 d1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
