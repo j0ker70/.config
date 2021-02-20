@@ -1,0 +1,5 @@
+2020/12/02-18:55:39.730 67409 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-18:56:00.995 67409 Level-0 table #5: started
+2020/12/02-18:56:01.048 67409 Level-0 table #5: 1293 bytes OK
+2020/12/02-18:56:01.126 67409 Delete type=0 #3
+2020/12/02-18:56:01.127 67409 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

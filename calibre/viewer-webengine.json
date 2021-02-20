@@ -1,0 +1,31 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAAmAAAAQQAAAewAAAJlAAAAJgAAAGYAAAHsAAACZQAAAAAAAAAABVYAAAAmAAAAZgAAAewAAAJl"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABjAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA7AD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAABxwAAAgAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "controls_help_shown_count": 2, 
+    "keyboard_shortcuts": {}, 
+    "read_mode": "flow", 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "key": "/home/pial/backup/Books/Math/paul-zeitz-author-the-art-and-craft-of-problem-solving-2edwiley20060471789011.pdf", 
+        "pathtoebook": "/home/pial/backup/Books/Math/paul-zeitz-author-the-art-and-craft-of-problem-solving-2edwiley20060471789011.pdf", 
+        "timestamp": "2020-09-24T17:42:41.873Z", 
+        "title": "paul-zeitz-author-the-art-and-craft-of-problem-solving-2edwiley20060471789011"
+      }
+    ]
+  }
+}

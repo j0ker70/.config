@@ -1,0 +1,54 @@
+{
+   "checksum": "59016f2240cf80be4ac753e9f49958c0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13249245445624253",
+            "guid": "7f2cce20-671b-436a-8687-a7d177480c3b",
+            "id": "26",
+            "name": "C++20 — Features and Introduction - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/blog/entry/84249"
+         }, {
+            "date_added": "13251188075708047",
+            "guid": "7c1427a1-73bd-4b5e-a1ba-c2f5e37c593e",
+            "id": "28",
+            "name": "4-2 Class Links - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1-_N6YkJIgmk9ZsKnDLcZQA-Vla-IakB1CvPDl6X20ZY/edit#gid=0"
+         }, {
+            "date_added": "13253636430149896",
+            "guid": "14d5bc02-d9ed-41b5-a03a-51cad73d3341",
+            "id": "30",
+            "name": "A Vim Guide for Intermediate Users",
+            "type": "url",
+            "url": "https://thevaluable.dev/vim-intermediate/"
+         } ],
+         "date_added": "13244932767492661",
+         "date_modified": "13257371399078379",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13244932767492679",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13244932767492685",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

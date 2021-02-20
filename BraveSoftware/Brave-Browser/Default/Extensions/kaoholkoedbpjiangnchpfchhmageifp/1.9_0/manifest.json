@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/19.png",
+         "38": "images/38.png"
+      },
+      "default_title": "__MSG_openApp__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "script.js" ],
+      "matches": [ "*://*.whatsapp.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "48": "48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjKkHWw+9xfsmAfc8N3AL1C7xpjFd64MFaiD+LXfSkAQH4Tv/TujMiUG+uMgC0unZhfNi5yCQAQ3086TxCbOnCB8+whNR3EqeUgEYTIFvsBknxPbEAOFb7oiTVqdQ0J3dpXFiyT1159vVQpJbAH3CQ7hkkecxrKWOkHQhDSUjCTLKzDIb+D+8f422UAWeE1RpknFzDAKV5FuFupkru648hLjosbZMjCuH/YICd4Fp92z0UcwaKR+Bs54oZ4nGy8IF/KMQe/PFaNULI40x7QNQmGfTBkVp8J515YrQvb2FWGqY5G7ZTrS6CW1/jaiMHnfIIrRzK3d9BP0SMFfYHtfnCwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "*://*.whatsapp.com/*", "tabs", "webRequest", "webRequestBlocking" ],
+   "short_name": "Notifier for WhatsApp Web",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9"
+}

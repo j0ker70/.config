@@ -1,0 +1,8 @@
+2021/02/14-17:26:18.875 ea85b Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_bdren.zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/14-17:26:18.875 ea85b Recovering log #20
+2021/02/14-17:26:18.875 ea85b Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_bdren.zoom.us_0.indexeddb.leveldb/000020.log 
+2021/02/14-18:12:30.160 eb303 Level-0 table #25: started
+2021/02/14-18:12:30.160 eb303 Level-0 table #25: 0 bytes OK
+2021/02/14-18:12:30.333 eb303 Delete type=0 #20
+2021/02/14-18:12:30.334 eb303 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/14-18:12:30.334 eb303 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/02/21-02:37:51.058 26511 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_castel.dev_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/21-02:37:51.059 26511 Recovering log #4
+2021/02/21-02:37:51.059 26511 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_castel.dev_0.indexeddb.leveldb/000004.log 
+2021/02/21-02:38:30.104 26557 Level-0 table #8: started
+2021/02/21-02:38:30.169 26557 Level-0 table #8: 540 bytes OK
+2021/02/21-02:38:30.212 26557 Delete type=0 #4
+2021/02/21-02:38:30.213 26557 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/21-02:38:30.213 26557 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0b\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/' @ 186 : 1
+2021/02/21-02:38:30.213 26557 Compacting 1@1 + 1@2 files
+2021/02/21-02:38:30.259 26557 Generated table #9@1: 47 keys, 1895 bytes
+2021/02/21-02:38:30.259 26557 Compacted 1@1 + 1@2 files => 1895 bytes
+2021/02/21-02:38:30.300 26557 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/21-02:38:30.301 26557 Delete type=2 #8
+2021/02/21-02:38:30.301 26557 Delete type=2 #5
+2021/02/21-02:38:30.301 26557 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0b\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/' @ 186 : 1 .. (end); will stop at (end)

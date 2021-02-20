@@ -1,0 +1,37 @@
+# Don't print a new line at the start of the prompt
+add_newline = false
+
+[directory]
+truncation_length = 3
+format = "[$path]($style)[$lock_symbol]($lock_style) "
+
+# Replace the "❯" symbol in the prompt with "➜"
+[character]                            # The name of the module we are configuring is "character"
+success_symbol = "[➜](bold green)"     # The "success_symbol" segment is being set to "➜" with the color "bold green"
+error_symbol = "[✖](bold red) "
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
+
+#[username]
+#style_user = "bold dimmed blue"
+#show_always = true
+
+[line_break]
+disabled = true
+
+[battery]
+full_symbol = "🔋 "
+charging_symbol = "⚡️ "
+discharging_symbol = "💀 "
+
+[[battery.display]]
+threshold = 30
+style = "bold red"
+
+[java]
+disabled = true
+
+[python]
+disabled = true

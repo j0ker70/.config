@@ -1,0 +1,15 @@
+2021/02/19-19:43:57.021 177dd Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/19-19:43:57.022 177dd Recovering log #150
+2021/02/19-19:43:57.022 177dd Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000150.log 
+2021/02/19-19:45:48.012 177dd Level-0 table #155: started
+2021/02/19-19:45:48.066 177dd Level-0 table #155: 3519 bytes OK
+2021/02/19-19:45:48.108 177dd Delete type=0 #150
+2021/02/19-19:45:48.108 177dd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/19-19:45:48.109 177dd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x1c\x00u\x00s\x00e\x00r\x00:\x003\x002\x005\x004\x004\x009\x002\x006\x005\x009\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s' @ 73160 : 1
+2021/02/19-19:45:48.109 177dd Compacting 1@1 + 1@2 files
+2021/02/19-19:45:48.156 177dd Generated table #156@1: 62 keys, 2607 bytes
+2021/02/19-19:45:48.156 177dd Compacted 1@1 + 1@2 files => 2607 bytes
+2021/02/19-19:45:48.208 177dd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/19-19:45:48.208 177dd Delete type=2 #155
+2021/02/19-19:45:48.209 177dd Delete type=2 #152
+2021/02/19-19:45:48.224 177dd Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x1c\x00u\x00s\x00e\x00r\x00:\x003\x002\x005\x004\x004\x009\x002\x006\x005\x009\x00:\x00r\x00w\x00e\x00b\x00.\x00s\x00e\x00e\x00n\x00i\x00d\x00s' @ 73160 : 1 .. (end); will stop at (end)

@@ -1,0 +1,264 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="7" last="1605366938857" />
+      </entry>
+      <entry key="$Paste">
+        <ActionSummary times="8" last="1605377027642" />
+      </entry>
+      <entry key="$SelectAll">
+        <ActionSummary times="13" last="1605376762818" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="186" last="1605392559700" />
+      </entry>
+      <entry key="About">
+        <ActionSummary times="1" last="1605334139246" />
+      </entry>
+      <entry key="Adtui.ZoomInAction">
+        <ActionSummary times="52" last="1605385627167" />
+      </entry>
+      <entry key="Adtui.ZoomOutAction">
+        <ActionSummary times="14" last="1605341074142" />
+      </entry>
+      <entry key="Adtui.ZoomToFitAction">
+        <ActionSummary times="2" last="1605337686458" />
+      </entry>
+      <entry key="BraceOrQuoteOut">
+        <ActionSummary times="2" last="1605392308459" />
+      </entry>
+      <entry key="CodeCleanup">
+        <ActionSummary times="1" last="1605366649606" />
+      </entry>
+      <entry key="CommentByLineComment">
+        <ActionSummary times="5" last="1605347494025" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="2360" last="1605393913668" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="37" last="1605393255779" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="742" last="1605393915217" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="29" last="1605392567343" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="14" last="1605389135748" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="673" last="1605393430105" />
+      </entry>
+      <entry key="EditorDownWithSelection">
+        <ActionSummary times="30" last="1605381005119" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="517" last="1605393407834" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="6" last="1605392621647" />
+      </entry>
+      <entry key="EditorIndentSelection">
+        <ActionSummary times="1" last="1605379523220" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="1323" last="1605393418575" />
+      </entry>
+      <entry key="EditorLeftWithSelection">
+        <ActionSummary times="26" last="1605381008873" />
+      </entry>
+      <entry key="EditorLineEnd">
+        <ActionSummary times="304" last="1605393843820" />
+      </entry>
+      <entry key="EditorLineEndWithSelection">
+        <ActionSummary times="10" last="1605359430536" />
+      </entry>
+      <entry key="EditorLineStart">
+        <ActionSummary times="5" last="1605389183498" />
+      </entry>
+      <entry key="EditorLineStartWithSelection">
+        <ActionSummary times="5" last="1605393822764" />
+      </entry>
+      <entry key="EditorPageDown">
+        <ActionSummary times="1" last="1605345650876" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="68" last="1605392568898" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="363" last="1605393413988" />
+      </entry>
+      <entry key="EditorRightWithSelection">
+        <ActionSummary times="84" last="1605381010821" />
+      </entry>
+      <entry key="EditorSelectWord">
+        <ActionSummary times="2" last="1605353295673" />
+      </entry>
+      <entry key="EditorSplitLine">
+        <ActionSummary times="5" last="1605381573806" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="108" last="1605392381671" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="236" last="1605393347798" />
+      </entry>
+      <entry key="EditorUpWithSelection">
+        <ActionSummary times="194" last="1605389569807" />
+      </entry>
+      <entry key="ExpandLiveTemplateByTab">
+        <ActionSummary times="1" last="1605357529999" />
+      </entry>
+      <entry key="Find">
+        <ActionSummary times="1" last="1605344574516" />
+      </entry>
+      <entry key="GotoNextError">
+        <ActionSummary times="1" last="1605361488817" />
+      </entry>
+      <entry key="Images.Editor.ZoomIn">
+        <ActionSummary times="4" last="1605339071210" />
+      </entry>
+      <entry key="Images.Editor.ZoomOut">
+        <ActionSummary times="8" last="1605339082470" />
+      </entry>
+      <entry key="Images.ToggleTransparencyChessboard">
+        <ActionSummary times="4" last="1605339080830" />
+      </entry>
+      <entry key="MakeGradleProject">
+        <ActionSummary times="7" last="1605380083435" />
+      </entry>
+      <entry key="NewAndroidImageAsset">
+        <ActionSummary times="6" last="1605357374853" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="1" last="1605329009099" />
+      </entry>
+      <entry key="NewDir">
+        <ActionSummary times="1" last="1605329979560" />
+      </entry>
+      <entry key="NewProject">
+        <ActionSummary times="4" last="1605342459666" />
+      </entry>
+      <entry key="NextTemplateVariable">
+        <ActionSummary times="7" last="1605367038032" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="2" last="1605334526789" />
+      </entry>
+      <entry key="PasteMultiple">
+        <ActionSummary times="1" last="1605339844986" />
+      </entry>
+      <entry key="RenameElement">
+        <ActionSummary times="2" last="1605376717931" />
+      </entry>
+      <entry key="Replace">
+        <ActionSummary times="1" last="1605346787835" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="64" last="1605393543531" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="10" last="1605393542339" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="85" last="1605393349663" />
+      </entry>
+      <entry key="ShowProjectStructureSettings">
+        <ActionSummary times="1" last="1605356765988" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="2" last="1605307543843" />
+      </entry>
+      <entry key="Stop">
+        <ActionSummary times="32" last="1605393612445" />
+      </entry>
+      <entry key="Switcher">
+        <ActionSummary times="113" last="1605393311477" />
+      </entry>
+      <entry key="Tree-selectPreviousExtendSelection">
+        <ActionSummary times="1" last="1605346793980" />
+      </entry>
+      <entry key="VimPluginToggle">
+        <ActionSummary times="1" last="1605327703127" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1605304374944" />
+      </entry>
+      <entry key="com.android.tools.adtui.actions.DropDownAction">
+        <ActionSummary times="8" last="1605345033899" />
+      </entry>
+      <entry key="com.android.tools.adtui.actions.PanSurfaceAction">
+        <ActionSummary times="16" last="1605341082182" />
+      </entry>
+      <entry key="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
+        <ActionSummary times="6" last="1605348328981" />
+      </entry>
+      <entry key="com.android.tools.idea.actions.DesignModeAction">
+        <ActionSummary times="1" last="1605340370432" />
+      </entry>
+      <entry key="com.android.tools.idea.common.editor.DesignToolsSplitEditor$MyToolBarAction">
+        <ActionSummary times="46" last="1605393861802" />
+      </entry>
+      <entry key="com.android.tools.idea.configurations.DeviceMenuAction">
+        <ActionSummary times="2" last="1605345024522" />
+      </entry>
+      <entry key="com.android.tools.idea.configurations.TargetMenuAction">
+        <ActionSummary times="8" last="1605356736005" />
+      </entry>
+      <entry key="com.android.tools.idea.rendering.GutterIconRenderer$GutterIconClickAction">
+        <ActionSummary times="1" last="1605347482242" />
+      </entry>
+      <entry key="com.android.tools.idea.uibuilder.actions.DisableToolsVisibilityAndPositionInPreviewAction">
+        <ActionSummary times="8" last="1605345048970" />
+      </entry>
+      <entry key="com.android.tools.idea.uibuilder.editor.NlActionManager$ViewActionToolbarMenuWrapper">
+        <ActionSummary times="4" last="1605345038197" />
+      </entry>
+      <entry key="com.intellij.codeInsight.daemon.NavigateAction">
+        <ActionSummary times="1" last="1605352407357" />
+      </entry>
+      <entry key="com.intellij.find.SearchReplaceComponent$12">
+        <ActionSummary times="1" last="1605346789036" />
+      </entry>
+      <entry key="com.intellij.notification.NotificationAction$1">
+        <ActionSummary times="3" last="1605342697681" />
+      </entry>
+      <entry key="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+        <ActionSummary times="99" last="1605327687608" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="1" last="1605361480161" />
+      </entry>
+      <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$4$2">
+        <ActionSummary times="1" last="1605303499245" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="16" last="1605391628076" />
+      </entry>
+      <entry key="com.maddyhome.idea.vim.ui.ExShortcutKeyAction">
+        <ActionSummary times="22" last="1605326783956" />
+      </entry>
+      <entry key="org.jetbrains.android.AndroidAnnotatorUtil$ColorRenderer$1">
+        <ActionSummary times="7" last="1605361215584" />
+      </entry>
+      <entry key="org.jetbrains.android.actions.CreateMultiRootResourceFileAction">
+        <ActionSummary times="3" last="1605391476773" />
+      </entry>
+      <entry key="org.jetbrains.android.actions.CreateResourceFileAction">
+        <ActionSummary times="1" last="1605329991725" />
+      </entry>
+      <entry key="org.jetbrains.android.actions.CreateResourceFileActionGroup$3">
+        <ActionSummary times="8" last="1605361426616" />
+      </entry>
+      <entry key="template.create.ActivityEmpty Activity">
+        <ActionSummary times="9" last="1605393788924" />
+      </entry>
+      <entry key="template.create.ActivityLogin Activity">
+        <ActionSummary times="1" last="1605346655470" />
+      </entry>
+    </data>
+  </component>
+</application>

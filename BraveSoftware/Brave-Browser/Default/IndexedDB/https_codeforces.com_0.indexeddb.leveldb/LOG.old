@@ -1,0 +1,8 @@
+2021/02/17-23:17:09.395 1722 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/17-23:17:09.396 1722 Recovering log #219
+2021/02/17-23:17:09.396 1722 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeforces.com_0.indexeddb.leveldb/000219.log 
+2021/02/17-23:17:11.989 2238 Level-0 table #224: started
+2021/02/17-23:17:11.989 2238 Level-0 table #224: 0 bytes OK
+2021/02/17-23:17:12.235 2238 Delete type=0 #219
+2021/02/17-23:17:12.235 2238 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/17-23:17:12.235 2238 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

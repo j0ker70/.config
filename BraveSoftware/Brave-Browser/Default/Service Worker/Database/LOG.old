@@ -1,0 +1,18 @@
+2021/02/17-23:08:01.457 967 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/MANIFEST-000001
+2021/02/17-23:08:01.502 967 Recovering log #94
+2021/02/17-23:08:01.781 967 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000094.log 
+2021/02/18-00:12:36.674 2bad Compacting 1@1 + 1@2 files
+2021/02/18-00:12:36.822 2bad Generated table #97@1: 503 keys, 24970 bytes
+2021/02/18-00:12:36.822 2bad Compacted 1@1 + 1@2 files => 24970 bytes
+2021/02/18-00:12:37.013 2bad compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/18-00:12:37.014 2bad Delete type=2 #95
+2021/02/18-00:12:37.014 2bad Delete type=2 #92
+2021/02/18-23:50:56.174 d347 Level-0 table #99: started
+2021/02/18-23:50:56.280 d347 Level-0 table #99: 62857 bytes OK
+2021/02/18-23:50:56.362 d347 Delete type=0 #94
+2021/02/19-00:17:11.196 d634 Compacting 1@1 + 1@2 files
+2021/02/19-00:17:11.280 d634 Generated table #100@1: 501 keys, 24985 bytes
+2021/02/19-00:17:11.280 d634 Compacted 1@1 + 1@2 files => 24985 bytes
+2021/02/19-00:17:11.322 d634 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/19-00:17:11.323 d634 Delete type=2 #97
+2021/02/19-00:17:11.324 d634 Delete type=2 #99

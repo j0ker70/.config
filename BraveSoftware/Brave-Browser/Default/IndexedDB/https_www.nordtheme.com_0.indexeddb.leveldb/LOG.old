@@ -1,0 +1,15 @@
+2020/09/28-17:35:35.905 486cb Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/28-17:35:35.906 486cb Recovering log #4
+2020/09/28-17:35:35.906 486cb Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000004.log 
+2020/09/28-17:36:42.501 19ad Level-0 table #8: started
+2020/09/28-17:36:42.584 19ad Level-0 table #8: 4168 bytes OK
+2020/09/28-17:36:42.633 19ad Delete type=0 #4
+2020/09/28-17:36:42.633 19ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/28-17:36:42.633 19ad Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 194 : 1
+2020/09/28-17:36:42.633 19ad Compacting 1@1 + 1@2 files
+2020/09/28-17:36:42.673 19ad Generated table #9@1: 42 keys, 1640 bytes
+2020/09/28-17:36:42.673 19ad Compacted 1@1 + 1@2 files => 1640 bytes
+2020/09/28-17:36:42.721 19ad compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/28-17:36:42.722 19ad Delete type=2 #8
+2020/09/28-17:36:42.722 19ad Delete type=2 #5
+2020/09/28-17:36:42.722 19ad Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 194 : 1 .. (end); will stop at (end)

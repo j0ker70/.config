@@ -1,0 +1,213 @@
+2021/02/08-22:40:26.661 ad4bf Reusing MANIFEST /home/pial/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/02/08-22:40:26.661 ad4bf Recovering log #837
+2021/02/08-22:40:26.661 ad4bf Reusing old log /home/pial/.config/discord/Local Storage/leveldb/000837.log 
+2021/02/09-22:49:40.407 bb46e Level-0 table #842: started
+2021/02/09-22:49:40.506 bb46e Level-0 table #842: 20207 bytes OK
+2021/02/09-22:49:40.557 bb46e Delete type=0 #837
+2021/02/10-01:25:30.032 bb46e Level-0 table #844: started
+2021/02/10-01:25:30.104 bb46e Level-0 table #844: 21534 bytes OK
+2021/02/10-01:25:30.148 bb46e Delete type=0 #841
+2021/02/10-01:51:30.030 bb46e Level-0 table #846: started
+2021/02/10-01:51:30.086 bb46e Level-0 table #846: 18642 bytes OK
+2021/02/10-01:51:30.127 bb46e Delete type=0 #843
+2021/02/10-02:17:30.031 bb46e Level-0 table #848: started
+2021/02/10-02:17:30.100 bb46e Level-0 table #848: 18590 bytes OK
+2021/02/10-02:17:30.147 bb46e Delete type=0 #845
+2021/02/10-02:17:30.149 bb46e Compacting 4@0 + 1@1 files
+2021/02/10-02:17:30.212 bb46e Generated table #849@0: 87 keys, 31175 bytes
+2021/02/10-02:17:30.212 bb46e Compacted 4@0 + 1@1 files => 31175 bytes
+2021/02/10-02:17:30.257 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/10-02:17:30.258 bb46e Delete type=2 #848
+2021/02/10-02:17:30.258 bb46e Delete type=2 #842
+2021/02/10-02:17:30.258 bb46e Delete type=2 #839
+2021/02/10-02:17:30.258 bb46e Delete type=2 #846
+2021/02/10-02:17:30.258 bb46e Delete type=2 #844
+2021/02/10-02:39:46.854 bb46e Level-0 table #851: started
+2021/02/10-02:39:46.929 bb46e Level-0 table #851: 19116 bytes OK
+2021/02/10-02:39:46.972 bb46e Delete type=0 #847
+2021/02/10-02:55:37.770 bb46e Level-0 table #853: started
+2021/02/10-02:55:38.083 bb46e Level-0 table #853: 18706 bytes OK
+2021/02/10-02:55:38.166 bb46e Delete type=0 #850
+2021/02/10-19:09:33.308 bb46e Level-0 table #855: started
+2021/02/10-19:09:33.407 bb46e Level-0 table #855: 19891 bytes OK
+2021/02/10-19:09:33.455 bb46e Delete type=0 #852
+2021/02/10-20:52:37.149 bb46e Level-0 table #857: started
+2021/02/10-20:52:37.188 bb46e Level-0 table #857: 18636 bytes OK
+2021/02/10-20:52:37.231 bb46e Delete type=0 #854
+2021/02/10-20:52:37.232 bb46e Compacting 4@0 + 1@1 files
+2021/02/10-20:52:37.307 bb46e Generated table #858@0: 87 keys, 31158 bytes
+2021/02/10-20:52:37.307 bb46e Compacted 4@0 + 1@1 files => 31158 bytes
+2021/02/10-20:52:37.341 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/10-20:52:37.341 bb46e Delete type=2 #851
+2021/02/10-20:52:37.341 bb46e Delete type=2 #849
+2021/02/10-20:52:37.341 bb46e Delete type=2 #855
+2021/02/10-20:52:37.341 bb46e Delete type=2 #857
+2021/02/10-20:52:37.342 bb46e Delete type=2 #853
+2021/02/11-00:55:26.640 bb46e Level-0 table #860: started
+2021/02/11-00:55:26.743 bb46e Level-0 table #860: 18727 bytes OK
+2021/02/11-00:55:26.843 bb46e Delete type=0 #856
+2021/02/11-01:21:09.324 bb46e Level-0 table #862: started
+2021/02/11-01:21:09.383 bb46e Level-0 table #862: 19065 bytes OK
+2021/02/11-01:21:09.430 bb46e Delete type=0 #859
+2021/02/11-15:59:52.966 bb46e Level-0 table #864: started
+2021/02/11-15:59:53.068 bb46e Level-0 table #864: 20239 bytes OK
+2021/02/11-15:59:53.169 bb46e Delete type=0 #861
+2021/02/11-16:24:52.965 bb46e Level-0 table #866: started
+2021/02/11-16:24:53.024 bb46e Level-0 table #866: 18782 bytes OK
+2021/02/11-16:24:53.073 bb46e Delete type=0 #863
+2021/02/11-16:24:53.074 bb46e Compacting 4@0 + 1@1 files
+2021/02/11-16:24:53.193 bb46e Generated table #867@0: 87 keys, 31247 bytes
+2021/02/11-16:24:53.193 bb46e Compacted 4@0 + 1@1 files => 31247 bytes
+2021/02/11-16:24:53.370 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/11-16:24:53.372 bb46e Delete type=2 #858
+2021/02/11-16:24:53.372 bb46e Delete type=2 #864
+2021/02/11-16:24:53.372 bb46e Delete type=2 #862
+2021/02/11-16:24:53.372 bb46e Delete type=2 #860
+2021/02/11-16:24:53.372 bb46e Delete type=2 #866
+2021/02/11-16:45:03.595 bb46e Level-0 table #869: started
+2021/02/11-16:45:03.640 bb46e Level-0 table #869: 17992 bytes OK
+2021/02/11-16:45:03.684 bb46e Delete type=0 #865
+2021/02/11-17:09:44.806 bb46e Level-0 table #871: started
+2021/02/11-17:09:44.859 bb46e Level-0 table #871: 19559 bytes OK
+2021/02/11-17:09:44.905 bb46e Delete type=0 #868
+2021/02/11-17:30:06.756 bb46e Level-0 table #873: started
+2021/02/11-17:30:06.819 bb46e Level-0 table #873: 19147 bytes OK
+2021/02/11-17:30:06.868 bb46e Delete type=0 #870
+2021/02/11-17:51:54.839 bb46e Level-0 table #875: started
+2021/02/11-17:51:54.895 bb46e Level-0 table #875: 19082 bytes OK
+2021/02/11-17:51:54.941 bb46e Delete type=0 #872
+2021/02/11-17:51:54.941 bb46e Compacting 4@0 + 1@1 files
+2021/02/11-17:51:54.985 bb46e Generated table #876@0: 87 keys, 31241 bytes
+2021/02/11-17:51:54.985 bb46e Compacted 4@0 + 1@1 files => 31241 bytes
+2021/02/11-17:51:55.030 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/11-17:51:55.030 bb46e Delete type=2 #875
+2021/02/11-17:51:55.030 bb46e Delete type=2 #871
+2021/02/11-17:51:55.030 bb46e Delete type=2 #873
+2021/02/11-17:51:55.030 bb46e Delete type=2 #867
+2021/02/11-17:51:55.030 bb46e Delete type=2 #869
+2021/02/11-18:12:16.731 bb46e Level-0 table #878: started
+2021/02/11-18:12:16.790 bb46e Level-0 table #878: 19342 bytes OK
+2021/02/11-18:12:16.836 bb46e Delete type=0 #874
+2021/02/11-18:35:23.610 bb46e Level-0 table #880: started
+2021/02/11-18:35:23.715 bb46e Level-0 table #880: 18267 bytes OK
+2021/02/11-18:35:23.758 bb46e Delete type=0 #877
+2021/02/11-19:00:23.611 bb46e Level-0 table #882: started
+2021/02/11-19:00:23.679 bb46e Level-0 table #882: 19380 bytes OK
+2021/02/11-19:00:23.724 bb46e Delete type=0 #879
+2021/02/11-19:20:49.479 bb46e Level-0 table #884: started
+2021/02/11-19:20:49.606 bb46e Level-0 table #884: 18248 bytes OK
+2021/02/11-19:20:49.647 bb46e Delete type=0 #881
+2021/02/11-19:20:49.647 bb46e Compacting 4@0 + 1@1 files
+2021/02/11-19:20:49.696 bb46e Generated table #885@0: 87 keys, 31258 bytes
+2021/02/11-19:20:49.696 bb46e Compacted 4@0 + 1@1 files => 31258 bytes
+2021/02/11-19:20:49.746 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/11-19:20:49.746 bb46e Delete type=2 #884
+2021/02/11-19:20:49.746 bb46e Delete type=2 #878
+2021/02/11-19:20:49.746 bb46e Delete type=2 #882
+2021/02/11-19:20:49.746 bb46e Delete type=2 #876
+2021/02/11-19:20:49.746 bb46e Delete type=2 #880
+2021/02/11-19:46:49.480 bb46e Level-0 table #887: started
+2021/02/11-19:46:49.538 bb46e Level-0 table #887: 18595 bytes OK
+2021/02/11-19:46:49.581 bb46e Delete type=0 #883
+2021/02/11-20:10:37.943 bb46e Level-0 table #889: started
+2021/02/11-20:10:38.002 bb46e Level-0 table #889: 18289 bytes OK
+2021/02/11-20:10:38.048 bb46e Delete type=0 #886
+2021/02/11-20:33:58.031 bb46e Level-0 table #891: started
+2021/02/11-20:33:58.096 bb46e Level-0 table #891: 18259 bytes OK
+2021/02/11-20:33:58.141 bb46e Delete type=0 #888
+2021/02/12-02:35:33.770 bb46e Level-0 table #893: started
+2021/02/12-02:35:33.823 bb46e Level-0 table #893: 23483 bytes OK
+2021/02/12-02:35:33.927 bb46e Delete type=0 #890
+2021/02/12-02:35:33.928 bb46e Compacting 4@0 + 1@1 files
+2021/02/12-02:35:33.999 bb46e Generated table #894@0: 87 keys, 31299 bytes
+2021/02/12-02:35:33.999 bb46e Compacted 4@0 + 1@1 files => 31299 bytes
+2021/02/12-02:35:34.081 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/12-02:35:34.082 bb46e Delete type=2 #885
+2021/02/12-02:35:34.082 bb46e Delete type=2 #887
+2021/02/12-02:35:34.082 bb46e Delete type=2 #893
+2021/02/12-02:35:34.082 bb46e Delete type=2 #889
+2021/02/12-02:35:34.082 bb46e Delete type=2 #891
+2021/02/12-23:38:06.847 bb46e Level-0 table #896: started
+2021/02/12-23:38:06.979 bb46e Level-0 table #896: 22558 bytes OK
+2021/02/12-23:38:07.077 bb46e Delete type=0 #892
+2021/02/12-23:59:39.097 bb46e Level-0 table #898: started
+2021/02/12-23:59:39.157 bb46e Level-0 table #898: 19101 bytes OK
+2021/02/12-23:59:39.204 bb46e Delete type=0 #895
+2021/02/13-00:24:39.159 bb46e Level-0 table #900: started
+2021/02/13-00:24:39.220 bb46e Level-0 table #900: 19184 bytes OK
+2021/02/13-00:24:39.264 bb46e Delete type=0 #897
+2021/02/13-00:49:39.093 bb46e Level-0 table #902: started
+2021/02/13-00:49:39.147 bb46e Level-0 table #902: 19215 bytes OK
+2021/02/13-00:49:39.192 bb46e Delete type=0 #899
+2021/02/13-00:49:39.193 bb46e Compacting 4@0 + 1@1 files
+2021/02/13-00:49:39.272 bb46e Generated table #903@0: 87 keys, 31318 bytes
+2021/02/13-00:49:39.272 bb46e Compacted 4@0 + 1@1 files => 31318 bytes
+2021/02/13-00:49:39.314 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/13-00:49:39.314 bb46e Delete type=2 #896
+2021/02/13-00:49:39.314 bb46e Delete type=2 #900
+2021/02/13-00:49:39.314 bb46e Delete type=2 #894
+2021/02/13-00:49:39.314 bb46e Delete type=2 #902
+2021/02/13-00:49:39.314 bb46e Delete type=2 #898
+2021/02/13-01:09:32.693 bb46e Level-0 table #905: started
+2021/02/13-01:09:32.755 bb46e Level-0 table #905: 19221 bytes OK
+2021/02/13-01:09:32.794 bb46e Delete type=0 #901
+2021/02/13-01:33:24.052 bb46e Level-0 table #907: started
+2021/02/13-01:33:24.097 bb46e Level-0 table #907: 19272 bytes OK
+2021/02/13-01:33:24.142 bb46e Delete type=0 #904
+2021/02/13-01:58:32.691 bb46e Level-0 table #909: started
+2021/02/13-01:58:32.754 bb46e Level-0 table #909: 19077 bytes OK
+2021/02/13-01:58:32.802 bb46e Delete type=0 #906
+2021/02/13-02:24:32.692 bb46e Level-0 table #911: started
+2021/02/13-02:24:32.741 bb46e Level-0 table #911: 19008 bytes OK
+2021/02/13-02:24:32.789 bb46e Delete type=0 #908
+2021/02/13-02:24:32.790 bb46e Compacting 4@0 + 1@1 files
+2021/02/13-02:24:32.844 bb46e Generated table #912@0: 87 keys, 31350 bytes
+2021/02/13-02:24:32.844 bb46e Compacted 4@0 + 1@1 files => 31350 bytes
+2021/02/13-02:24:32.888 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/13-02:24:32.889 bb46e Delete type=2 #909
+2021/02/13-02:24:32.889 bb46e Delete type=2 #903
+2021/02/13-02:24:32.889 bb46e Delete type=2 #907
+2021/02/13-02:24:32.889 bb46e Delete type=2 #905
+2021/02/13-02:24:32.889 bb46e Delete type=2 #911
+2021/02/13-02:47:41.759 bb46e Level-0 table #914: started
+2021/02/13-02:47:41.807 bb46e Level-0 table #914: 18689 bytes OK
+2021/02/13-02:47:41.848 bb46e Delete type=0 #910
+2021/02/13-23:32:58.803 bb46e Level-0 table #916: started
+2021/02/13-23:32:58.895 bb46e Level-0 table #916: 23713 bytes OK
+2021/02/13-23:32:59.001 bb46e Delete type=0 #913
+2021/02/13-23:55:20.717 bb46e Level-0 table #918: started
+2021/02/13-23:55:20.783 bb46e Level-0 table #918: 20166 bytes OK
+2021/02/13-23:55:20.826 bb46e Delete type=0 #915
+2021/02/14-15:23:07.977 bb46e Level-0 table #920: started
+2021/02/14-15:23:08.036 bb46e Level-0 table #920: 19371 bytes OK
+2021/02/14-15:23:08.123 bb46e Delete type=0 #917
+2021/02/14-15:23:08.131 bb46e Compacting 4@0 + 1@1 files
+2021/02/14-15:23:08.226 bb46e Generated table #921@0: 87 keys, 31519 bytes
+2021/02/14-15:23:08.226 bb46e Compacted 4@0 + 1@1 files => 31519 bytes
+2021/02/14-15:23:08.267 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/14-15:23:08.269 bb46e Delete type=2 #912
+2021/02/14-15:23:08.269 bb46e Delete type=2 #914
+2021/02/14-15:23:08.269 bb46e Delete type=2 #920
+2021/02/14-15:23:08.269 bb46e Delete type=2 #918
+2021/02/14-15:23:08.269 bb46e Delete type=2 #916
+2021/02/14-15:46:07.977 bb46e Level-0 table #923: started
+2021/02/14-15:46:08.078 bb46e Level-0 table #923: 22433 bytes OK
+2021/02/14-15:46:08.120 bb46e Delete type=0 #919
+2021/02/14-16:12:07.978 bb46e Level-0 table #925: started
+2021/02/14-16:12:08.034 bb46e Level-0 table #925: 18989 bytes OK
+2021/02/14-16:12:08.083 bb46e Delete type=0 #922
+2021/02/14-21:20:41.067 bb46e Level-0 table #927: started
+2021/02/14-21:20:41.134 bb46e Level-0 table #927: 21333 bytes OK
+2021/02/14-21:20:41.268 bb46e Delete type=0 #924
+2021/02/16-02:11:56.349 bb46e Level-0 table #929: started
+2021/02/16-02:11:56.431 bb46e Level-0 table #929: 21033 bytes OK
+2021/02/16-02:11:56.525 bb46e Delete type=0 #926
+2021/02/16-02:11:56.548 bb46e Compacting 4@0 + 1@1 files
+2021/02/16-02:11:56.710 bb46e Generated table #930@0: 87 keys, 31503 bytes
+2021/02/16-02:11:56.711 bb46e Compacted 4@0 + 1@1 files => 31503 bytes
+2021/02/16-02:11:56.758 bb46e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/16-02:11:56.758 bb46e Delete type=2 #921
+2021/02/16-02:11:56.760 bb46e Delete type=2 #923
+2021/02/16-02:11:56.760 bb46e Delete type=2 #925
+2021/02/16-02:11:56.760 bb46e Delete type=2 #929
+2021/02/16-02:11:56.760 bb46e Delete type=2 #927

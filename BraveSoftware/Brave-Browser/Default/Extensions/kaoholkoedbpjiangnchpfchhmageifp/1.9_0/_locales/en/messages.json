@@ -1,0 +1,18 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "This is an unofficial enhacement for WhatsApp Web. This extension is not related in any way to WhatsApp Inc."
+   },
+   "appName": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Notifier for WhatsApp Web"
+   },
+   "openApp": {
+      "description": "Open WhatsApp Web.",
+      "message": "Open WhatsApp Web"
+   },
+   "otherAlert": {
+      "description": "Other session alert.",
+      "message": "You've opened a new session of WhatsApp Web in other browser or PC."
+   }
+}

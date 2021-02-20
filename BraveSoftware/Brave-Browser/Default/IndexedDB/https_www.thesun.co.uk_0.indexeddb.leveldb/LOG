@@ -1,0 +1,5 @@
+2020/11/18-19:16:53.087 4b73 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.thesun.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-19:17:32.605 4b73 Level-0 table #5: started
+2020/11/18-19:17:32.671 4b73 Level-0 table #5: 2893 bytes OK
+2020/11/18-19:17:32.710 4b73 Delete type=0 #3
+2020/11/18-19:17:32.711 4b73 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,130 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>layout</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set mouse?</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/java/com/example/securedelivery/SecondFragment.java" timestamp="1605326633348">
+        <mark key="'" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/res/values/strings.xml" timestamp="1605327691852">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/java/com/example/securedelivery/MainActivity.java" timestamp="1605327606519">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/res/layout/fragment_second.xml" timestamp="1605308743487">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+        <mark key="." line="12" column="42" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="12" filename="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/java/com/example/securedelivery/SecondFragment.java" />
+      <jump line="18" column="23" filename="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/java/com/example/securedelivery/SecondFragment.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/java/com/example/securedelivery/MainActivity.java" />
+      <jump line="20" column="25" filename="$USER_HOME$/Documents/HackTheVerse_Tetragon/SecureDelivery/app/src/main/java/com/example/securedelivery/MainActivity.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">PHJlc291cmNlcz4KICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPlNlY3VyZSBEZWxpdmVyeTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fc2V0dGluZ3MiPlNldHRpbmdzPC9zdHJpbmc+CiAgICA8IS0tIFN0cmluZ3MgdXNlZCBmb3IgZnJhZ21lbnRzIGZvciBuYXZpZ2F0aW9uIC0tPgogICAgPHN0cmluZyBuYW1lPSJmaXJzdF9mcmFnbWVudF9sYWJlbCI+Rmlyc3QgRnJhZ21lbnQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ic2Vjb25kX2ZyYWdtZW50X2xhYmVsIj5TZWNvbmQgRnJhZ21lbnQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibmV4dCI+TmV4dDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJwcmV2aW91cyI+UHJldmlvdXM8L3N0cmluZz4KCiAgICA8c3RyaW5nIG5hbWU9ImhlbGxvX2ZpcnN0X2ZyYWdtZW50Ij5IZWxsbyBmaXJzdCBmcmFnbWVudDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJoZWxsb19zZWNvbmRfZnJhZ21lbnQiPkhlbGxvIHNlY29uZCBmcmFnbWVudC4gQXJnOiAlMSRzPC9zdHJpbmc+CjwvcmVzb3VyY2VzPg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHJlc291cmNlcz4KICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPlNlY3VyZSBEZWxpdmVyeTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJhY3Rpb25fc2V0dGluZ3MiPlNldHRpbmdzPC9zdHJpbmc+CiAgICA8IS0tIFN0cmluZ3MgdXNlZCBmb3IgZnJhZ21lbnRzIGZvciBuYXZpZ2F0aW9uIC0tPgogICAgPHN0cmluZyBuYW1lPSJmaXJzdF9mcmFnbWVudF9sYWJlbCI+Rmlyc3QgRnJhZ21lbnQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ic2Vjb25kX2ZyYWdtZW50X2xhYmVsIj5TZWNvbmQgRnJhZ21lbnQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibmV4dCI+TmV4dDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJwcmV2aW91cyI+UHJldmlvdXM8L3N0cmluZz4KCiAgICA8c3RyaW5nIG5hbWU9ImhlbGxvX2ZpcnN0X2ZyYWdtZW50Ij5IZWxsbyBmaXJzdCBmcmFnbWVudDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJoZWxsb19zZWNvbmRfZnJhZ21lbnQiPkhlbGxvIHNlY29uZCBmcmFnbWVudC4gQXJnOiAlMSRzPC9zdHJpbmc+CjwvcmVzb3VyY2VzPg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>package com.example.securedelivery;
+
+import android.os.Bundle;
+
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
+import com.google.android.material.snackbar.Snackbar;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+
+import android.view.View;
+
+import android.view.Menu;
+import android.view.MenuItem;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        Toolbar toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
+        FloatingActionButton fab = findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Snackbar.make(view, &quot;Replace with your own action&quot;, Snackbar.LENGTH_LONG)
+                        .setAction(&quot;Action&quot;, null).show();
+            }
+        });
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.action_settings) {
+            return true;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+}</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="/" type="4">
+        <text>layout</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>layout</last-search>
+      <last-offset />
+      <last-pattern>layout</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

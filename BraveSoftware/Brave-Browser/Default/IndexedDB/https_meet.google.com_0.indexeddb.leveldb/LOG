@@ -1,0 +1,15 @@
+2020/11/14-11:36:46.664 1decf Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/14-11:36:46.683 1decf Recovering log #82
+2020/11/14-11:36:46.683 1decf Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000082.log 
+2020/11/14-11:56:18.035 1eb80 Level-0 table #86: started
+2020/11/14-11:56:18.079 1eb80 Level-0 table #86: 190 bytes OK
+2020/11/14-11:56:18.129 1eb80 Delete type=0 #82
+2020/11/14-11:56:18.129 1eb80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/14-11:56:18.129 1eb80 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 54 : 1
+2020/11/14-11:56:18.129 1eb80 Compacting 1@1 + 1@2 files
+2020/11/14-11:56:18.180 1eb80 Generated table #87@1: 18 keys, 506 bytes
+2020/11/14-11:56:18.180 1eb80 Compacted 1@1 + 1@2 files => 506 bytes
+2020/11/14-11:56:18.228 1eb80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/14-11:56:18.229 1eb80 Delete type=2 #80
+2020/11/14-11:56:18.229 1eb80 Delete type=2 #86
+2020/11/14-11:56:18.240 1eb80 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 54 : 1 .. (end); will stop at (end)

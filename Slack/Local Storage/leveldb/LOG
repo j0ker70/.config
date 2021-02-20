@@ -1,0 +1,9 @@
+2021/02/17-23:07:21.980 877 Reusing MANIFEST /home/pial/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/02/17-23:07:21.980 877 Recovering log #50
+2021/02/17-23:07:22.597 877 Reusing old log /home/pial/.config/Slack/Local Storage/leveldb/000050.log 
+2021/02/20-03:04:47.272 1d0ae Level-0 table #55: started
+2021/02/20-03:04:47.371 1d0ae Level-0 table #55: 9159 bytes OK
+2021/02/20-03:04:47.469 1d0ae Delete type=0 #50
+2021/02/20-21:33:42.461 22884 Level-0 table #57: started
+2021/02/20-21:33:42.577 22884 Level-0 table #57: 7544 bytes OK
+2021/02/20-21:33:42.693 22884 Delete type=0 #54

@@ -1,0 +1,5 @@
+2020/11/06-19:36:23.548 16640 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.toppr.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/06-19:36:55.546 16640 Level-0 table #5: started
+2020/11/06-19:36:55.602 16640 Level-0 table #5: 797 bytes OK
+2020/11/06-19:36:55.680 16640 Delete type=0 #3
+2020/11/06-19:36:55.681 16640 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

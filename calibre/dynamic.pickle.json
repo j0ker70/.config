@@ -1,0 +1,21 @@
+{
+  "add books dialog dir": "/home/pial/backup/Books/Math", 
+  "notified-version-updates": {
+    "__class__": "set", 
+    "__value__": [
+      "5.6"
+    ]
+  }, 
+  "sort_history": [
+    [
+      "timestamp", 
+      false
+    ], 
+    [
+      "timestamp", 
+      false
+    ]
+  ], 
+  "welcome_wizard_device": "default", 
+  "welcome_wizard_was_run": true
+}

@@ -1,0 +1,14 @@
+[Default Applications]
+text/html=brave-browser.desktop
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+application/x-trash=sublime_text.desktop;
+application/pdf=calibre-ebook-viewer.desktop;
+application/x-shellscript=gvim.desktop;sublime_text.desktop;
+application/zip=org.gnome.Nautilus.desktop;org.gnome.FileRoller.desktop;
+image/webp=org.gnome.eog.desktop;brave-browser.desktop;

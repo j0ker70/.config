@@ -1,0 +1,8 @@
+2020/11/29-18:47:48.541 4b3ff Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cricket.com.au_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-18:47:48.541 4b3ff Recovering log #10
+2020/11/29-18:47:48.541 4b3ff Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cricket.com.au_0.indexeddb.leveldb/000010.log 
+2020/11/29-18:51:16.050 4b4b1 Level-0 table #14: started
+2020/11/29-18:51:16.050 4b4b1 Level-0 table #14: 0 bytes OK
+2020/11/29-18:51:16.085 4b4b1 Delete type=0 #10
+2020/11/29-18:51:16.086 4b4b1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/29-18:51:16.086 4b4b1 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

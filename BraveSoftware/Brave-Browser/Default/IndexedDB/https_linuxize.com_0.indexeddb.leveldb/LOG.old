@@ -1,0 +1,5 @@
+2020/11/07-01:41:58.370 190fe Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/07-01:42:03.227 190fe Level-0 table #5: started
+2020/11/07-01:42:03.394 190fe Level-0 table #5: 5945 bytes OK
+2020/11/07-01:42:03.618 190fe Delete type=0 #3
+2020/11/07-01:42:03.644 190fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

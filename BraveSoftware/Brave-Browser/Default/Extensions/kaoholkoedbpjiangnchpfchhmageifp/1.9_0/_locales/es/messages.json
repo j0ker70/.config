@@ -1,0 +1,18 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Esta es una mejor no oficial para WhatsApp Web. Esta extension no esta relacionada en ninguna manera con WhatsApp Inc."
+   },
+   "appName": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Notificaciones WhatsApp Web"
+   },
+   "openApp": {
+      "description": "Abrir WhatsApp Web.",
+      "message": "Abrir WhatsApp Web"
+   },
+   "otherAlert": {
+      "description": "Other session alert.",
+      "message": "Has abierto una nueva sesion de WhatsApp Web en otro navegador o PC."
+   }
+}

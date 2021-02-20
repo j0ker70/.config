@@ -1,0 +1,30 @@
+Dec 23 04:21:31.000 [notice] Tor 0.4.4.6 opening new log file.
+Dec 23 04:21:31.212 [notice] Tor 0.4.4.6 running on Linux with Libevent 2.1.11-stable, OpenSSL 1.0.2u, Zlib 1.2.11, Liblzma N/A, and Libzstd N/A.
+Dec 23 04:21:31.212 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Dec 23 04:21:31.212 [notice] Configuration file "/nonexistent" not present, using reasonable defaults.
+Dec 23 04:21:31.215 [notice] Opening Socks listener on 127.0.0.1:0
+Dec 23 04:21:31.215 [notice] Socks listener listening on port 35923.
+Dec 23 04:21:31.215 [notice] Opened Socks listener on 127.0.0.1:35923
+Dec 23 04:21:31.215 [notice] Opening Control listener on 127.0.0.1:0
+Dec 23 04:21:31.215 [notice] Control listener listening on port 38011.
+Dec 23 04:21:31.215 [notice] Opened Control listener on 127.0.0.1:38011
+Dec 23 04:21:31.000 [notice] Bootstrapped 0% (starting): Starting
+Dec 23 04:21:31.000 [notice] Starting with guard context "default"
+Dec 23 04:21:31.000 [notice] Bootstrapped 5% (conn): Connecting to a relay
+Dec 23 04:21:31.000 [notice] New control connection opened from 127.0.0.1.
+Dec 23 04:21:31.000 [notice] Bootstrapped 10% (conn_done): Connected to a relay
+Dec 23 04:21:32.000 [notice] Bootstrapped 14% (handshake): Handshaking with a relay
+Dec 23 04:21:32.000 [notice] Bootstrapped 15% (handshake_done): Handshake with a relay done
+Dec 23 04:21:32.000 [notice] Bootstrapped 45% (requesting_descriptors): Asking for relay descriptors
+Dec 23 04:21:32.000 [notice] Bootstrapped 51% (loading_descriptors): Loading relay descriptors
+Dec 23 04:21:34.000 [notice] Bootstrapped 56% (loading_descriptors): Loading relay descriptors
+Dec 23 04:21:34.000 [notice] Bootstrapped 64% (loading_descriptors): Loading relay descriptors
+Dec 23 04:21:34.000 [notice] Bootstrapped 69% (loading_descriptors): Loading relay descriptors
+Dec 23 04:21:34.000 [notice] Bootstrapped 75% (enough_dirinfo): Loaded enough directory info to build circuits
+Dec 23 04:21:35.000 [notice] Bootstrapped 80% (ap_conn): Connecting to a relay to build circuits
+Dec 23 04:21:35.000 [notice] Bootstrapped 85% (ap_conn_done): Connected to a relay to build circuits
+Dec 23 04:21:36.000 [notice] Bootstrapped 89% (ap_handshake): Finishing handshake with a relay to build circuits
+Dec 23 04:21:36.000 [notice] Bootstrapped 90% (ap_handshake_done): Handshake finished with a relay to build circuits
+Dec 23 04:21:36.000 [notice] Bootstrapped 95% (circuit_create): Establishing a Tor circuit
+Dec 23 04:21:37.000 [notice] Bootstrapped 100% (done): Done
+Dec 23 04:34:09.000 [notice] Catching signal TERM, exiting cleanly.

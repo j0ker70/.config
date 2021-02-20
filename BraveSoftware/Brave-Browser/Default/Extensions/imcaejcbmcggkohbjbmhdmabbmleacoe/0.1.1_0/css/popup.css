@@ -1,0 +1,60 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+body {
+    width: 200px;
+}
+
+#menuFrame {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#menuFrame p, i {
+    margin: 0;
+}
+
+#saveConfig {
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+    color: #fff;
+    background-color: #5cb85c;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4cae4c;
+    border-radius: 4px;
+}
+
+.inputField {
+    margin-top: 10px;
+    background-color: #f2f2f2;
+    width: 150px;
+    height: 30px;
+    padding: 8px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.inputLabel {
+    margin-top: 10px;
+}
+
+#savedText {
+    margin-top: 10px;
+    color: #4cae4c;
+    font-size: 1.2em;
+}
+
+#botEnabled {
+    width: 30px;
+}

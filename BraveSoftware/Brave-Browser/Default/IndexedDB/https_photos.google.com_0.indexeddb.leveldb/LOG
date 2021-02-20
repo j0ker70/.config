@@ -1,0 +1,8 @@
+2021/02/21-02:34:24.846 26505 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/21-02:34:24.846 26505 Recovering log #119
+2021/02/21-02:34:24.846 26505 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000119.log 
+2021/02/21-02:34:56.923 26506 Level-0 table #124: started
+2021/02/21-02:34:56.923 26506 Level-0 table #124: 0 bytes OK
+2021/02/21-02:34:56.988 26506 Delete type=0 #119
+2021/02/21-02:34:56.989 26557 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/21-02:34:56.990 26557 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

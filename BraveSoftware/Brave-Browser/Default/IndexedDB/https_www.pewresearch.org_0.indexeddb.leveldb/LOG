@@ -1,0 +1,5 @@
+2020/12/06-04:19:14.755 8463e Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pewresearch.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/06-04:29:39.903 8495b Level-0 table #5: started
+2020/12/06-04:29:39.959 8495b Level-0 table #5: 1155 bytes OK
+2020/12/06-04:29:40.004 8495b Delete type=0 #3
+2020/12/06-04:29:40.005 8495b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

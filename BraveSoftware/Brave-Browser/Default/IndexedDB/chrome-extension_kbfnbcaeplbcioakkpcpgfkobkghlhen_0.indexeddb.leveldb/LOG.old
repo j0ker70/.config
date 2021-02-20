@@ -1,0 +1,15 @@
+2021/02/17-23:08:36.838 96d Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/17-23:08:36.838 96d Recovering log #124
+2021/02/17-23:08:37.606 96d Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000124.log 
+2021/02/21-02:33:47.790 24d8f Level-0 table #129: started
+2021/02/21-02:33:48.033 24d8f Level-0 table #129: 1268464 bytes OK
+2021/02/21-02:33:48.294 24d8f Delete type=0 #124
+2021/02/21-02:33:48.322 24d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/21-02:33:48.322 24d8f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00l\x00a\x00s\x00t\x00C\x00o\x00n\x00f\x00i\x00g\x00U\x00p\x00d\x00a\x00t\x00e' @ 53711 : 1
+2021/02/21-02:33:48.322 24d8f Compacting 1@1 + 1@2 files
+2021/02/21-02:33:48.409 24d8f Generated table #130@1: 31 keys, 6953 bytes
+2021/02/21-02:33:48.409 24d8f Compacted 1@1 + 1@2 files => 6953 bytes
+2021/02/21-02:33:48.555 24d8f compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/21-02:33:48.556 24d8f Delete type=2 #129
+2021/02/21-02:33:48.556 24d8f Delete type=2 #126
+2021/02/21-02:33:48.600 24d8f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00l\x00a\x00s\x00t\x00C\x00o\x00n\x00f\x00i\x00g\x00U\x00p\x00d\x00a\x00t\x00e' @ 53711 : 1 .. (end); will stop at (end)

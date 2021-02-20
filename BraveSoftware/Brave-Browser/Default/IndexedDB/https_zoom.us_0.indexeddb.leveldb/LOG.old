@@ -1,0 +1,5 @@
+2020/09/21-16:02:50.727 d56f Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/21-16:12:04.909 1b7d Level-0 table #5: started
+2020/09/21-16:12:04.965 1b7d Level-0 table #5: 3802 bytes OK
+2020/09/21-16:12:05.006 1b7d Delete type=0 #3
+2020/09/21-16:12:05.007 1b7d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

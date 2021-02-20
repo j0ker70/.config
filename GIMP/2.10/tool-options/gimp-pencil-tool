@@ -1,0 +1,15 @@
+# GIMP gimp-pencil-tool options
+
+(background (color-rgb 0 0 0))
+(opacity 0)
+(brush "2. Hardness 075")
+(dynamics "Pencil Shader")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 19)
+(brush-angle -1.2490009027033011e-16)
+(brush-hardness 0.75)
+(brush-force 1)
+(use-smoothing yes)
+
+# end of gimp-pencil-tool options

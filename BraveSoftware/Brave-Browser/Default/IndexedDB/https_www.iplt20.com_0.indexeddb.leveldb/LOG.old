@@ -1,0 +1,5 @@
+2020/09/22-01:47:18.383 11283 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.iplt20.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/22-01:49:53.806 1b7d Level-0 table #5: started
+2020/09/22-01:49:53.862 1b7d Level-0 table #5: 15223 bytes OK
+2020/09/22-01:49:53.907 1b7d Delete type=0 #3
+2020/09/22-01:49:53.908 1b7d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

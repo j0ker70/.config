@@ -1,0 +1,15 @@
+2020/12/28-21:22:15.797 e72c Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/28-21:22:15.797 e72c Recovering log #63
+2020/12/28-21:22:15.797 e72c Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/000063.log 
+2020/12/28-21:23:15.784 e72b Level-0 table #68: started
+2020/12/28-21:23:15.839 e72b Level-0 table #68: 3445 bytes OK
+2020/12/28-21:23:15.887 e72b Delete type=0 #63
+2020/12/28-21:23:15.888 e72b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/28-21:23:15.888 e72b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x08\x03\x01$\x00b\x00a\x00a\x009\x00f\x008\x001\x00e\x00-\x00d\x00c\x00a\x001\x00-\x004\x00f\x003\x006\x00-\x009\x004\x00c\x008\x00-\x006\x00b\x008\x001\x00d\x000\x006\x004\x004\x00f\x009\x00f' @ 4642 : 1
+2020/12/28-21:23:15.888 e72b Compacting 1@1 + 1@2 files
+2020/12/28-21:23:15.939 e72b Generated table #69@1: 109 keys, 2972 bytes
+2020/12/28-21:23:15.939 e72b Compacted 1@1 + 1@2 files => 2972 bytes
+2020/12/28-21:23:15.986 e72b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/28-21:23:15.987 e72b Delete type=2 #65
+2020/12/28-21:23:15.987 e72b Delete type=2 #68
+2020/12/28-21:23:15.988 e72b Manual compaction at level-1 from '\x00\x01\x08\x03\x01$\x00b\x00a\x00a\x009\x00f\x008\x001\x00e\x00-\x00d\x00c\x00a\x001\x00-\x004\x00f\x003\x006\x00-\x009\x004\x00c\x008\x00-\x006\x00b\x008\x001\x00d\x000\x006\x004\x004\x00f\x009\x00f' @ 4642 : 1 .. (end); will stop at (end)

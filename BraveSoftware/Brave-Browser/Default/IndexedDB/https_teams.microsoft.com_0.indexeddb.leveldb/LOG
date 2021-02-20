@@ -1,0 +1,8 @@
+2021/02/01-21:00:53.780 70565 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/01-21:00:53.782 70565 Recovering log #35
+2021/02/01-21:00:53.783 70565 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000035.log 
+2021/02/01-21:00:55.910 7033a Level-0 table #40: started
+2021/02/01-21:00:55.910 7033a Level-0 table #40: 0 bytes OK
+2021/02/01-21:00:55.953 7033a Delete type=0 #35
+2021/02/01-21:00:55.954 7033a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/01-21:00:55.955 7033a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

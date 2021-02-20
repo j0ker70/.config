@@ -1,0 +1,21 @@
+2021/02/17-23:08:53.982 968 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2021/02/17-23:08:53.982 968 Recovering log #105
+2021/02/17-23:08:55.332 968 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000105.log 
+2021/02/18-19:50:22.107 ad32 Level-0 table #109: started
+2021/02/18-19:50:22.240 ad32 Level-0 table #109: 2500241 bytes OK
+2021/02/18-19:50:22.312 ad32 Delete type=0 #105
+2021/02/19-19:50:42.523 17d27 Level-0 table #111: started
+2021/02/19-19:50:42.702 17d27 Level-0 table #111: 2522447 bytes OK
+2021/02/19-19:50:42.796 17d27 Delete type=0 #108
+2021/02/19-19:50:42.796 177dd Compacting 4@0 + 1@1 files
+2021/02/19-19:50:43.228 177dd Generated table #112@0: 4 keys, 658418 bytes
+2021/02/19-19:50:43.228 177dd Compacted 4@0 + 1@1 files => 658418 bytes
+2021/02/19-19:50:43.273 177dd compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/19-19:50:43.273 177dd Delete type=2 #106
+2021/02/19-19:50:43.274 177dd Delete type=2 #104
+2021/02/19-19:50:43.274 177dd Delete type=2 #111
+2021/02/19-19:50:43.274 177dd Delete type=2 #102
+2021/02/19-19:50:43.274 177dd Delete type=2 #109
+2021/02/20-19:50:24.994 2097a Level-0 table #114: started
+2021/02/20-19:50:25.160 2097a Level-0 table #114: 2479776 bytes OK
+2021/02/20-19:50:25.236 2097a Delete type=0 #110

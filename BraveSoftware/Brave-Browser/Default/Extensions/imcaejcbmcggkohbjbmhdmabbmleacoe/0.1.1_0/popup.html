@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/popup.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div id="menuFrame">
+        <p>Skribbl.io friend finder</p>
+        <i>Made by: Max Liebe</i>
+        <br>
+        <span>This bot will use the language, name and avatar saved in your browser. If you want to change them, disable the bot and change them on <a href="https://skribbl.io">skribbl.io</a>.</span>
+        <br>
+        <p>NOTE: It's recommended to have at least a reconnection delay of 1200, lower than that can get you kicked from lobbies.</p>
+        <br>
+        <label for="botEnabled" class="inputLabel">Bot enabled:</label>
+        <input type="checkbox" id="botEnabled" class="inputField" name="botEnabled"/>
+        <label for="friendName" class="inputLabel">Friend's name:</label>
+        <input name="friendName" id="friendName" class="inputField" type="text" placeholder="Friend's name"/>
+        <label for="reconnectDelay"  class="inputLabel">Reconnection delay:</label>
+        <input name="reconnectDelay" min="1200" max="10000" id="reconnectDelay" class="inputField" type="number" placeholder="Reconnection delay"/>
+        <button id="saveConfig">Save settings</button>
+    </div>
+
+    <script src="js/popup.js"></script>
+  </body>
+</html>

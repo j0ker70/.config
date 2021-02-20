@@ -1,0 +1,8 @@
+2020/11/13-23:49:30.835 19107 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lucidchart.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/13-23:49:30.836 19107 Recovering log #4
+2020/11/13-23:49:30.836 19107 Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lucidchart.com_0.indexeddb.leveldb/000004.log 
+2020/11/13-23:49:32.997 19319 Level-0 table #8: started
+2020/11/13-23:49:32.997 19319 Level-0 table #8: 0 bytes OK
+2020/11/13-23:49:33.034 19319 Delete type=0 #4
+2020/11/13-23:49:33.035 19319 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/13-23:49:33.035 19319 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

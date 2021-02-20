@@ -1,0 +1,5 @@
+2021/02/16-20:47:30.324 100641 Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_k21academy.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/16-20:48:02.364 100c6a Level-0 table #5: started
+2021/02/16-20:48:02.442 100c6a Level-0 table #5: 826 bytes OK
+2021/02/16-20:48:02.532 100c6a Delete type=0 #3
+2021/02/16-20:48:02.533 100c6a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

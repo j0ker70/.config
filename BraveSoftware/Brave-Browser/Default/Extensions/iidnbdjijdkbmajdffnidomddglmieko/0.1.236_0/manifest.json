@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_security_policy": "script-src 'self' 'sha256-5yV8cXgL/6ohNH21lj/gAe8V2ySsUotORIZGaw9e8Uw=' https://quillbot.com; object-src 'self'; frame-src 'self' https://quillbot.com;",
+   "description": "Save time and immediately improve your writing with QuillBot Paraphrasing and Summarizing Tool.",
+   "icons": {
+      "128": "assets/icon.png",
+      "16": "assets/icon.png",
+      "48": "assets/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhrhBXDCO5d7eHunCCmp2voIXCXKuPBHLuneBYdVhwsXf+lt4YyvCBvjoBBnAtxBSLvR9tic3SL2ylMTkmprK+HLIZWY8HaeOJA0FdRGIZaiFFA6pCZSi55MrfF25961QR+5MJNPLZdnRNMaLn5zq1ZJFJi4UR2hvxyP2AhUgO8ZNWO4JU6qoavWV/xW6SGDbpayjyIfHIcQbuIyHbu9SUyNnpbIUdKvIdu1+YWkQfX3OoQPNdinZ4tL3a7N6Xr0JWIcyBvSlZB3dM4UAhk5KLgAuadkb8LBvxovyA6ZjUBAWNlA290Qx30rF1CMm5pXT1wAg5MwmQp+4f3DNnh7pmwIDAQAB",
+   "manifest_version": 2,
+   "name": "Quillbot",
+   "page_action": {
+      "default_icon": "assets/icon.png",
+      "default_title": "Inject sidebar"
+   },
+   "permissions": [ "activeTab", "contextMenus", "notifications" ],
+   "short_name": "Quillbot",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.236",
+   "web_accessible_resources": [ "script.js", "frame.html", "assets/*.png", "imgs/*.png" ]
+}

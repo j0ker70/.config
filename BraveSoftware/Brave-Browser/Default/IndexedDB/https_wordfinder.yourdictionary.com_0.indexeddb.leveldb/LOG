@@ -1,0 +1,5 @@
+2020/09/29-01:25:17.757 509ee Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wordfinder.yourdictionary.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/29-01:28:14.513 19ad Level-0 table #5: started
+2020/09/29-01:28:14.569 19ad Level-0 table #5: 1183 bytes OK
+2020/09/29-01:28:14.618 19ad Delete type=0 #3
+2020/09/29-01:28:14.618 19ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

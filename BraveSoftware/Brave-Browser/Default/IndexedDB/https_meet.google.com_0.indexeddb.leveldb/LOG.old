@@ -1,0 +1,8 @@
+2020/10/27-17:43:04.750 8e35f Reusing MANIFEST /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/27-17:43:04.750 8e35f Recovering log #78
+2020/10/27-17:43:04.750 8e35f Reusing old log /home/pial/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000078.log 
+2020/10/27-17:50:35.670 8e35f Level-0 table #83: started
+2020/10/27-17:50:35.670 8e35f Level-0 table #83: 0 bytes OK
+2020/10/27-17:50:35.712 8e35f Delete type=0 #78
+2020/10/27-17:50:35.712 8e35f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/27-17:50:35.712 8e35f Manual compaction at level-1 from (begin) .. (end); will stop at (end)
