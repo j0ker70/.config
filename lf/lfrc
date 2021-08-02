@@ -1,0 +1,25 @@
+# Basic settings
+
+set previewer ~/.config/lf/scope
+set preview true
+set icons
+
+cmd open ${{
+    case $(file --mime-type "$f" -b) in
+        text/*) $EDITOR "$f" ;;
+        application/pdf) $READER "$f" 2> /dev/null ;;
+    esac
+}}
+
+cmd mkdir $mkdir -p "$(echo $* | tr ' ' '\ ')"
+
+cmd delete ${{
+	clear; tput cup $(($(tput lines)/3)); tput bold
+	set -f
+	printf "%s\n\t" "$fx"
+	printf "delete?[y/N]"
+	read ans
+	[ $ans = "y" ] && rm -rf -- $fx
+}}
+
+map D delete
