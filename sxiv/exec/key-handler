@@ -31,6 +31,7 @@ case "$1" in
 "C-period") rotate  90 ;;
 "C-slash")  rotate 180 ;;
 "C-d")      while read file; do mv "$file" ~/.local/share/Trash/files; done ;;
-"C-w")      while read file; do nitrogen --save --set-zoom-fill "$file"; done ;;
+#"C-w")      while read file; do nitrogen --save --set-zoom-fill "$file"; done ;;
+"C-w")      while read file; do setbg "$file"; done ;;
 esac
 
