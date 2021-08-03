@@ -1,2 +1,5 @@
 #! /bin/sh
 
+source $HOME/.cache/wal/colors.sh
+
+cp $HOME/.cache/wal/zathurarc $XDG_CONFIG_HOME/zathura/zathurarc
