@@ -1,0 +1,12 @@
+# GIMP action-history
+
+(history-item "image-new" 1)
+(history-item "tools-bucket-fill" 0)
+(history-item "tools-gradient" 0)
+(history-item "layers-new" 0)
+(history-item "layers-merge-down" 0)
+(history-item "layers-edit-attributes" 0)
+(history-item "filters-color-to-alpha" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

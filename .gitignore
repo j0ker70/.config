@@ -1,6 +1,7 @@
 *.log
 logs/**
 autostart/
+BraveSoftware/
 dconf/
 discord/
 Element/
@@ -25,6 +26,14 @@ update-notifier/
 pulse/
 nautilus/
 pcmanfm/
+totem/
+vlc/
+vokoscreenNG/
+teamviewer/
+nuclear/
+systemd/
+JetBrains/
+codeblocks/
 user-*
 zoomus.conf
 QtProject.conf

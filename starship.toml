@@ -20,8 +20,8 @@ disabled = true
 #style_user = "bold dimmed blue"
 #show_always = true
 
-[line_break]
-disabled = true
+#[line_break]
+#disabled = true
 
 [battery]
 full_symbol = "🔋 "
@@ -36,4 +36,5 @@ style = "bold red"
 disabled = true
 
 [python]
-disabled = true
+# Only use the `python3` binary to get the version.
+python_binary = "python3"
