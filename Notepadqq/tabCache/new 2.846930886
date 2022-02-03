@@ -1,4 +1,0 @@
-Line 30: Char 19: error: no viable conversion from 'ListNode' to 'ListNode *'
-        ListNode* now = ListNode(s, add(anext, bnext, carry));
-                  ^     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1 error generated.

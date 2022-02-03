@@ -34,6 +34,7 @@ nuclear/
 systemd/
 JetBrains/
 codeblocks/
+configstore/
 user-*
 zoomus.conf
 QtProject.conf
