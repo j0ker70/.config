@@ -4,6 +4,7 @@
 #battery-symbols: on Manjaro you need the awesome-terminal-fonts package installed!
 PERCENT=$(cat /sys/class/power_supply/BAT0/capacity)
 STATUS=$(cat /sys/class/power_supply/BAT0/status)
+STATUS=${STATUS:0:3}
 #echo $STATUS::$PERCENT%
 case $((
  $PERCENT >= 0 && $PERCENT <= 20 ? 1 :
