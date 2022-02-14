@@ -246,7 +246,10 @@ bindsym $mod+o exec --no-startup-id i3-dmenu-desktop
 
 
 # start compton
-exec_always compton
+exec_always picom
+
+# mouse following off
+focus_follows_mouse no
 
 
 ## Hide window title
