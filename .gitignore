@@ -1,6 +1,12 @@
 *.log
 logs/**
 autostart/
+Android Open Source Project/
+Code/
+Google/
+VirtualBox/
+git/
+wireshark/
 BraveSoftware/
 dconf/
 discord/
@@ -35,6 +41,7 @@ systemd/
 JetBrains/
 codeblocks/
 configstore/
+teams (deleted)/
 user-*
 zoomus.conf
 QtProject.conf
