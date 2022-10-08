@@ -76,3 +76,8 @@ require("lspconfig").sumneko_lua.setup {
         },
     },
 }
+
+require("lspconfig").clangd.setup {
+    capabilities = capabilities,
+    on_attach = lsp_keymaps,
+}
