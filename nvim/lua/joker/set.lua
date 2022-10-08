@@ -18,6 +18,9 @@ vim.o.splitright = true
 vim.o.ttyfast = true
 vim.o.cursorline = true
 vim.o.mouse = "a"
+vim.o.termguicolors = true
+
+vim.o.completeopt = "menu,menuone,preview,noselect"
 
 vim.g.netrw_liststyle = 3
 vim.g.netrw_banner = 0

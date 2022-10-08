@@ -1,3 +1,6 @@
 require("joker.set")
 require("joker.packer")
 require("joker.maps")
+require("joker.cmp")
+require("joker.lsp")
+require("joker.telescope")
