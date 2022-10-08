@@ -21,7 +21,7 @@ map("n", "<leader>[", "<CMD>bp<CR>")
 map("n", "<leader>]", "<CMD>bn<CR>")
 map("n", "<leader>n", "<CMD>cn<CR>")
 map("n", "<leader>N", "<CMD>cp<CR>")
-map("n", "<leader>T", ":vs +te")
+map("n", "<leader>T", "<CMD>vs +te<CR>")
 
 map("v", "<leader>y", "\"+y")
 
@@ -32,3 +32,6 @@ map("t", "<C-l>", "<C-\\><C-N><C-w>l")
 
 map("n", "<leader>ff", "<CMD>Telescope find_files<CR>")
 map("n", "<leader>lg", "<CMD>Telescope live_grep<CR>")
+
+map("n", "<C-_>", ":Commentary<CR>")
+map("v", "<C-_>", ":Commentary<CR>")

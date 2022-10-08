@@ -53,4 +53,14 @@ return packer.startup(function(use)
     use { 'nvim-telescope/telescope-fzf-native.nvim', run = 'make' }
 
     use 'kyazdani42/nvim-web-devicons'
+
+    -- Treesitter
+    use {
+        'nvim-treesitter/nvim-treesitter',
+        run = ':TSUpdate',
+    }
+    use 'nvim-treesitter/nvim-treesitter-context'
+
+    -- commenting
+    use 'tpope/vim-commentary'
 end)
