@@ -20,6 +20,10 @@ vim.o.cursorline = true
 vim.o.mouse = "a"
 vim.o.termguicolors = true
 
+vim.o.list = true
+vim.o.showbreak = "↪"
+vim.o.listchars = "tab:→ ,eol:↲,nbsp:␣,trail:•,extends:⟩,precedes:⟨"
+
 vim.o.completeopt = "menu,menuone,preview,noselect"
 
 vim.g.netrw_liststyle = 3
