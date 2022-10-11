@@ -50,7 +50,7 @@ local function lsp_keymaps()
     -- map("n", "<leader>gl", vim.diagnostic.open_float)
 end
 
-require("lspconfig").pylsp.setup {
+require("lspconfig").pyright.setup {
     capabilities = capabilities,
     on_attach = lsp_keymaps,
 }
