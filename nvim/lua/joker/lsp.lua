@@ -28,7 +28,7 @@ end
 --         prefix = "",
 --     },
 -- }
--- 
+
 -- vim.diagnostic.config(config)
 
 local function map(m, k, v)
@@ -78,6 +78,16 @@ require("lspconfig").sumneko_lua.setup {
 }
 
 require("lspconfig").clangd.setup {
+    capabilities = capabilities,
+    on_attach = lsp_keymaps,
+}
+
+require("lspconfig").tsserver.setup {
+    capabilities = capabilities,
+    on_attach = lsp_keymaps,
+}
+
+require("lspconfig").html.setup {
     capabilities = capabilities,
     on_attach = lsp_keymaps,
 }
