@@ -35,7 +35,7 @@ local function map(m, k, v)
     vim.keymap.set(m, k, v, { noremap = true, silent = true })
 end
 
-local capabilities = require('cmp_nvim_lsp').update_capabilities(vim.lsp.protocol.make_client_capabilities())
+local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
 local function lsp_keymaps()
     map("n", "<leader>K", vim.lsp.buf.hover)

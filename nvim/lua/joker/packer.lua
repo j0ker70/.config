@@ -63,4 +63,46 @@ return packer.startup(function(use)
 
     -- commenting
     use 'tpope/vim-commentary'
+
+    use {
+        'nvim-lualine/lualine.nvim',
+        requires = { 'kyazdani42/nvim-web-devicons', opt = true },
+        config = function()
+            require("joker.plugins.lualine")
+        end,
+    }
+
+    use {
+        'glepnir/dashboard-nvim',
+        config = function()
+            require("joker.plugins.dashboard")
+        end,
+    }
+
+    use {
+        'lukas-reineke/indent-blankline.nvim',
+        config = function()
+            require("joker.plugins.indentline")
+        end,
+    }
+
+    use {
+        'norcalli/nvim-colorizer.lua',
+        config = function()
+            require("joker.plugins.colorizer")
+        end,
+    }
+
+    use 'rhysd/git-messenger.vim'
+
+    use {
+        'nvim-tree/nvim-tree.lua',
+        requires = {
+            'nvim-tree/nvim-web-devicons', -- optional, for file icons
+        },
+        tag = 'nightly', -- optional, updated every week. (see issue #1193)
+        config = function()
+            require("joker.plugins.nvim-tree")
+        end,
+    }
 end)
