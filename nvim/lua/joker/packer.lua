@@ -105,4 +105,18 @@ return packer.startup(function(use)
             require("joker.plugins.nvim-tree")
         end,
     }
+
+    use {
+        'lewis6991/gitsigns.nvim',
+        config = function()
+            require('joker.plugins.gitsigns')
+        end
+    }
+
+    use {
+        'voldikss/vim-floaterm',
+        config = function()
+            require('joker.plugins.floaterm')
+        end,
+    }
 end)

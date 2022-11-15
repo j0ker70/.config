@@ -200,10 +200,21 @@ set $urgent-bg-color     #E53935
 #client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          #00ff00
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #E06C75 #E06C75 #ffffff #2e9ef4   #E06C75
-client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
+# client.focused          #E06C75 #E06C75 #ffffff #2e9ef4   #E06C75
+# client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
+# client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+# client.urgent           #2f343a #900000 #ffffff #900000   #900000
+# client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+
+# client.background       #ffffff
+
+
+#tokyonight
+# class                 border  backgr. text    indicator child_border
+client.focused          #ff9e64 #d65d0e #ff9e64 #ff9e64   #ff9e64
+client.focused_inactive #cfc9c2 #cfc9c2 #ffffff #cfc9c2   #cfc9c2
 client.unfocused        #333333 #222222 #888888 #292d2e   #222222
-client.urgent           #2f343a #900000 #ffffff #900000   #900000
+client.urgent           #cc241d #900000 #ffffff #cc241d   #cc241d
 client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
 client.background       #ffffff
