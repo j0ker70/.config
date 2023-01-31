@@ -73,10 +73,10 @@ return packer.startup(function(use)
     }
 
     use {
-        'glepnir/dashboard-nvim',
-        config = function()
-            require("joker.plugins.dashboard")
-        end,
+        'goolord/alpha-nvim',
+        config = function ()
+            require'alpha'.setup(require'alpha.themes.dashboard'.config)
+        end
     }
 
     use {
@@ -118,5 +118,17 @@ return packer.startup(function(use)
         config = function()
             require('joker.plugins.floaterm')
         end,
+    }
+
+    use {
+        'tpope/vim-fugitive',
+    }
+
+    use {
+        'tpope/vim-rhubarb',
+    }
+
+    use {
+        'junegunn/gv.vim',
     }
 end)

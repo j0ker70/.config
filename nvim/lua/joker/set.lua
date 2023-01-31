@@ -31,5 +31,8 @@ vim.o.completeopt = "menu,menuone,preview,noselect"
 
 vim.g.mapleader = " "
 
-vim.g.loaded_netrw = 1
-vim.g.loaded_netrwPlugin = 1
+-- vim.g.loaded_netrw = 1
+-- vim.g.loaded_netrwPlugin = 1
+
+-- enable netrw
+-- vim.g.nvim_tree_disable_netrw = 0

@@ -14,6 +14,6 @@ require('lualine').setup({
         theme = 'catppuccin',
     },
     sections = {
-        lualine_b = { {'diff', source = diff_source}, },
+        lualine_b = { 'branch', {'diff', source = diff_source}, 'diagnostics'},
     },
 })

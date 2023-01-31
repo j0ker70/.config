@@ -91,3 +91,11 @@ require("lspconfig").html.setup {
     capabilities = capabilities,
     on_attach = lsp_keymaps,
 }
+
+require("lspconfig").rust_analyzer.setup {
+    capabilities = capabilities,
+    on_attach = lsp_keymaps,
+    cmd = {
+        "rustup", "run", "stable", "rust-analyzer",
+    },
+}
